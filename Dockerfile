@@ -5,7 +5,7 @@
 # Pull from Centos
 
 
-FROM centos:latest
+FROM wmarinho/centos:latest
 
 MAINTAINER Wellington Marinho wpmarinho@globo.com
 
